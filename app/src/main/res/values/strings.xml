@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">karrot</string>
+    <string name="roll">Roll</string>
+    <string name="Value">1</string>
+    <string name="dice">Dice</string>
+    <string name="roll_text">Let\'s roll</string>
 </resources>
